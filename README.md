@@ -57,8 +57,3 @@ I'm **Shahzaib Asif Jatala**, a dedicated Software Engineer focused on building 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibJatala&theme=radical" alt="GitHub Streak" />
 </div>
-
----
-
-### 📈 Contribution Graph
-![Shahzaib's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibJatala&theme=tokyonight)
