@@ -1,61 +1,64 @@
-# Hi there, I'm Shahzaib Asif Jatala 👋
-### Full-Stack Developer | SaaS Enthusiast
+# I'm Shahzaib Asif Jatala
 
-A results-driven developer focused on building scalable web applications and high-end digital experiences. I bridge the gap between complex backend logic and elegant frontend design.
+### Software Engineer | Full Stack Developer | Web Solutions Specialist 🚀
 
----
+I'm **Shahzaib Asif Jatala**, a dedicated Software Engineer focused on building high-performance web applications and scalable SaaS solutions. My mission is to bridge the gap between complex business requirements and elegant, user-centric digital products.
 
-## 🚀 Featured Projects
-*Showcasing my ability to build end-to-end solutions.*
-
-#### 🏥 **MediBook (Doctor Appointment SaaS)**
-*A full-scale SaaS platform for healthcare management.*
-- **Tech Stack:** Next.js, NestJS, MongoDB, TypeScript.
-- **Key Features:** Multi-role authentication (Admin/Doctor/Patient), automated scheduling, and real-time profile management.
-- [**View Repository**](https://github.com/ShahzaibJatala) | [**Live Demo**](https://shahzaibjatala.github.io/Portfolio/)
-
-#### 💌 **Custom Event Solutions**
-*Bespoke WordPress plugins and high-end event invitation engines.*
-### 🛠 Tech Stack:
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- [**View Project**](https://github.com/ShahzaibJatala)
-
-#### 🌐 **sajomnix.dev**
-*My professional brand identity hub.*
-- **Tech Stack:** React, Tailwind CSS, Node.Js.
-- [**Visit Website**](https://www.sajomnix.dev/)
+- 💻 As a **Full Stack Web Engineer**, I specialize in the **MERN Stack**, **Next.js**, and **NestJS**. I build robust applications using technologies like **React**, **Node.js**, **Express.js**, and **Tailwind CSS** to deliver seamless user experiences.
+- 🏗️ Currently developing **[sajomnix.dev](https://www.sajomnix.dev/)** and lead projects like **MediBook**, a comprehensive Doctor Appointment SaaS, and custom digital invitation platforms for weddings and events.
+- 🔧 Expert in **PHP** and **Laravel** for enterprise-grade backend systems, alongside **WordPress** plugin development and custom theme architecture.
+- 🎓 Passionate about clean code and modern architecture, utilizing **C++** for performance-critical logic and various database technologies to ensure data integrity and speed.
 
 ---
 
-## 🛠 Technical Expertise
+<div align="center">
+ <a href="mailto:shahzaibasifjatala@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/shahzaib-asif-575bb3320">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://github.com/ShahzaibJatala">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="https://shahzaibjatala.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript, HTML5/CSS3 |
-| **Backend** | Node.js, NestJS, PHP, Laravel, Express.js |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **CMS & Tools** | WordPress (Plugin/Theme Dev), Git, Docker, C++ |
+---
+
+### 🚀 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,nestjs,php,laravel,wordpress,cpp,mysql,postgres,tailwind,bootstrap,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📈 Professional Growth
-- **Currently Learning:** Advanced Microservices Architecture & Cloud Deployment (AWS).
-- **Goal:** To build robust, user-centric SaaS products that solve real-world problems.
-- **Open To:** Full-stack roles, Backend-heavy projects, and Internship opportunities.
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibJatala&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibJatala&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibJatala&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shahzaibjatala](https://www.linkedin.com/in/shahzaib-asif-575bb3320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahzaibjatala.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaibasifjatala@gmail.com)
-
----
-*"Code is the poetry of logic."*
+### 📈 Contribution Graph
+![Shahzaib's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibJatala&theme=tokyonight)
