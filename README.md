@@ -55,5 +55,5 @@ I'm **Shahzaib Asif Jatala**, a dedicated Software Engineer focused on building 
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibJatala&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibJatala&theme=radical&v=1" alt="GitHub Streak" />
 </div>
